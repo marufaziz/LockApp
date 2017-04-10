@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/78cfa82d0637eba7ff197aee9209547156cc41f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04c9317143e16d5cbfb5c4eb5bb741bff9f29468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_684351890cd1768c91661b6bcbbb41226ce362f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/41b23aea9f188f0d877b608f26c7a7b5b8a008fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4af66caffa0b3a920e4c6c906e6f9405283ac69f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_86d4cb20f89e6bcab77f7970f1f9e65a232dc352/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/8a9b8dfd525a314950c26b873f47bae756b3a1d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e4ac6c86162c5012cf200a79bb96b1eaaac129a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a28da7e1737f012b81abee9220ca0d6054f53dbb">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0cf8f76d110e5dc8c20d96d83ada212f49ff65c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/f8421ef1626d5d0708ed056b6e2ea77c2005e3c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b017fc4306c6e42568eb0cf6967d06800e879dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/98cfedf9bf7a5d499990a23c5fdddd1c22a84fa3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f2418dfd0952169462a3786ac7873f90aaaae0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_af8a449082307fac204732b66c501b1781bbf2b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/8083597dd01361f3c83e30582d6a4721f7ed7b55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9152f5c33cae3948eb2007d004b52ef4032b2212/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/6eba227e5787d3f9414dd26a8192dc11ee62bb95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65967a7ad0728d45cf2e575fa167ba8e24a494f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/cfebf3e0cd62690c519d20918b3c861eb8e87e9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc791b5cbfc03dae987f77076c247bd3d3c8b7c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/fe59112d486d4ad56446d1b726c29dcc8d52fe44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6a4fefd2b0374045a04445b780f95f485302893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/e8e8593722eafed69def4a28544b25fd8ef6f167/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cc29054ca4678fd54291b5858e47081004c2506/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/585c6e80d3fdcb06b1fe834f9972986d8774ac58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e56043617178de82c626a2d7337e3ef8897c01f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/a6870292f951d531cc3872ecdc529851c7cb3768/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66e8f40218fc72fb89fce60e5e82a65dc1a7c4c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sami/.android/build-cache/e1949bb2d5bf9bdba312a2e365dd7a52554c83cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Sami/Documents/Sami_dell/LockScreen/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfabb5a27a18247af8bb2a3a307a8d3e42fd6a8a/classes.dex" />
+    </item>
+
+</items>
